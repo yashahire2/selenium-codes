@@ -1,0 +1,9 @@
+url https://www.naukri.com/
+services //div[text()='Services']
+
+url1 https://utkarshaaacademy.com/
+title Utkarshaa Academy
+
+keyboardurl https://demoqa.com/text-box
+
+dropdownurl http://demoqa.com/select-menu

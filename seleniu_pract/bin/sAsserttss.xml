@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+
+<listeners>
+<listeners class-name = "testMgg./listnerss"></listeners>
+</listeners>
+  <test name="Test">
+    <classes>
+      <class name="testMgg.sAsserttss"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+    
+    <method>
+    </method>
+      <class name="testMgg.basic_test_ng"/>
+      <class name= "testMgg.basic_2"/> </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
